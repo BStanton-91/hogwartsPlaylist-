@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0z
+  }
+
+  @font-face {
+      font-family: Animles;
+      src: url(fonts/AnimalesFantastic-lGly.ttf);
+    
+      font-family: magic school;
+      src: url(fonts/MagicSchoolOne.ttf);
+      
+      font-family: magic school2;
+      src: url(fonts/MagicSchoolTwo.ttf);
+    }
+    
+/*body {
+    
+  }
+/* navBar*/  
+.topbar-center-logo {
+  background: #2c3840;
+}
+
+.topbar-center-logo .menu {
+  background: #2c3840;
+}
+
+.topbar-center-logo .menu a {
+  color: #fefefe;
+}
+
+.topbar-center-logo .top-bar-center {
+  -webkit-flex: 1 0 auto;
+      -ms-flex: 1 0 auto;
+          flex: 1 0 auto;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .topbar-center-logo .top-bar-center {
+    display: none;
+  }
+}
+
+.topbar-center-logo-mobile {
+  background: #2c3840;
+}
+
+.topbar-center-logo-mobile .menu-icon {
+  vertical-align: text-top;
+}
+
+/*Gryffindor section*/
+.gryf {
+background-image: url("./img/gryffin.png");
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.g-pod {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:gold;
+  font-style: oblique;
+}
+
+.g-music {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:gold;
+  font-style: oblique;  
+}
+
+/*RavenClaw section*/
+
+.raven {
+  background-image: url("./img/ravenclaw.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.r-pod {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:grey;
+  font-style: oblique;
+}
+
+.r-music {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:grey;
+  font-style: oblique;
+}
+
+/*slytherin section*/
+
+.slyth {
+  background-image: url("./img/slytherin.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.s-pod {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:black;
+  font-style: oblique;
+}
+
+.s-music {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:black;
+  font-style: oblique;
+}
+
+/*hufflepuff section*/
+
+.huff {
+  background-image: url("./img/hufflepuff.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.h-pod {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:gold;
+  font-style: oblique;
+}
+
+.h-music {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  color:gold;
+  font-style: oblique;
+}
+
+
